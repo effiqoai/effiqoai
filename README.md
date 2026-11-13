@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Effiqo AI: AI agents that answer every call, qualify every lead and book more jobs" width="100%"/>
+  <img src="/banner.svg" alt="Effiqo AI: AI agents that answer every call, qualify every lead and book more jobs" width="100%"/>
 </p>
 
 <p align="center">
