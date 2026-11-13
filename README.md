@@ -10,7 +10,7 @@
   <b>🎙️ Voice AI &nbsp;•&nbsp; 📞 24/7 Reception &nbsp;•&nbsp; 🎯 Lead Qualification &nbsp;•&nbsp; 📅 Automatic Booking</b>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src="/divider.svg" width="100%" alt=""/></p>
 
 ## 👋 About Us
 
@@ -25,7 +25,7 @@ Our flagship agent, **ELISE**, is an always-on voice receptionist and revenue ag
 <table>
   <tr>
     <td width="46%" align="center">
-      <img src="assets/elise-3d.svg" alt="ELISE, the AI voice receptionist" width="100%"/>
+      <img src="/elise-3d.svg" alt="ELISE, the AI voice receptionist" width="100%"/>
     </td>
     <td width="54%" valign="middle">
       <br/>
@@ -52,10 +52,10 @@ Our flagship agent, **ELISE**, is an always-on voice receptionist and revenue ag
 ## ⚙️ How It Works
 
 <p align="center">
-  <img src="assets/pipeline.svg" alt="ELISE workflow: Answer, Qualify, Book, Follow up" width="100%"/>
+  <img src="/pipeline.svg" alt="ELISE workflow: Answer, Qualify, Book, Follow up" width="100%"/>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src="/divider.svg" width="100%" alt=""/></p>
 
 ## 🏗️ Who We Serve
 
@@ -79,7 +79,7 @@ We also build custom ELISE agents for organizations in other sectors, including 
 - 🎬 **Agency and industry demos**: tailored ELISE demos built on real client knowledge bases
 - 🛰️ **Social and lead tooling**: automation that spots buyer intent in industry communities and hands warm leads to our team
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src="/divider.svg" width="100%" alt=""/></p>
 
 ## 📫 Work With Us
 
